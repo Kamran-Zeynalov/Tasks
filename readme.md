@@ -6,5 +6,5 @@
 *Unvan: Ehmedli* <br>
 - Gitara
 - Sintezator
-<br>
+
 ![This is an image](https://baku.ws/uploads/posts/2015-12/1450511765_dnog7wgr.jpg)
